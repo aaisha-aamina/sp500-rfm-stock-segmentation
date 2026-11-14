@@ -1,0 +1,26 @@
+{
+  "wikipedia_url": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "retrieval_date_utc": "2026-11-14",
+  "retrieval_timestamp_utc": "2026-11-14T07:36:30+00:00",
+  "price_source": "yfinance (auto_adjust=False)",
+  "versions": {
+    "python": "3.13.18",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "0.2.66"
+  },
+  "start": "2021-01-01",
+  "end_exclusive": "2025-01-01",
+  "benchmark": "^GSPC",
+  "price_download_timestamp_utc": "2026-11-14T07:40:31+00:00",
+  "observation_date": "2024-12-31",
+  "n_constituents_listed": 503,
+  "n_retained": 486,
+  "n_excluded": 17,
+  "n_weekly_returns": 207,
+  "rfm": {
+    "baseline_sessions": 20,
+    "window_sessions": 60,
+    "multiple": 2
+  }
+}

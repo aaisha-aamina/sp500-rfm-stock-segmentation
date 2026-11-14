@@ -1,0 +1,18 @@
+ticker,security,sector,reason
+APP,AppLovin,Communication Services,"unequal history: 935/1005 benchmark days (first date 2021-04-15); missing prices (Close 70, Adj 70); missing volume on 70 days"
+COIN,Coinbase,Financials,"unequal history: 936/1005 benchmark days (first date 2021-04-14); missing prices (Close 69, Adj 69); missing volume on 69 days"
+CEG,Constellation Energy,Utilities,"unequal history: 742/1005 benchmark days (first date 2022-01-19); missing prices (Close 263, Adj 263); missing volume on 263 days"
+EXE,Expand Energy,Energy,"unequal history: 979/1005 benchmark days (first date 2021-02-10); missing prices (Close 26, Adj 26); missing volume on 26 days"
+FDXF,FedEx Freight,Industrials,no data returned by yfinance
+FERG,Ferguson Enterprises,Industrials,zero/negative volume on 27 days
+GEHC,GE HealthCare,Health Care,"unequal history: 513/1005 benchmark days (first date 2022-12-15); missing prices (Close 492, Adj 492); missing volume on 492 days"
+GEV,GE Vernova,Industrials,"unequal history: 193/1005 benchmark days (first date 2024-03-27); missing prices (Close 812, Adj 812); missing volume on 812 days"
+HONA,Honeywell Aerospace,Industrials,no data returned by yfinance
+Q,Qnity Electronics,Information Technology,no data returned by yfinance
+RDDT,Reddit,Communication Services,"unequal history: 197/1005 benchmark days (first date 2024-03-21); missing prices (Close 808, Adj 808); missing volume on 808 days"
+HOOD,Robinhood Markets,Financials,"unequal history: 862/1005 benchmark days (first date 2021-07-29); missing prices (Close 143, Adj 143); missing volume on 143 days"
+SNDK,Sandisk,Information Technology,no data returned by yfinance
+SW,Smurfit Westrock,Materials,zero/negative volume on 424 days
+SOLV,Solventum,Health Care,"unequal history: 194/1005 benchmark days (first date 2024-03-26); missing prices (Close 811, Adj 811); missing volume on 811 days"
+VLTO,Veralto,Industrials,"unequal history: 313/1005 benchmark days (first date 2023-10-04); missing prices (Close 692, Adj 692); missing volume on 692 days"
+VYLR,Vylor,Consumer Staples,no data returned by yfinance
